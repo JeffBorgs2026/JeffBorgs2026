@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou o Jeff! 👋
 
-<!--
-**JeffBorgs2026/JeffBorgs2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas na Etec, focado em construir uma base sólida em programação, lógica e desenvolvimento web. Este espaço é o meu portfólio digital para documentar e expor os projetos práticos desenvolvidos ao longo do curso.
 
-Here are some ideas to get you started:
+## 🧑‍💻Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente cursando Desenvolvimento de Sistemas, estou explorando a criação de soluções utilizando tecnologias fundamentais da área. Busco sempre aplicar técnicas de programação estruturada e desenvolver projetos funcionais.
+
+## 🛠️ Tecnologias e Ferramentas
+
+Apenas Phyton por enquanto. 
+
+## 📁 Projetos da Etec
+
+Ainda não há projeto. Estou estudando. 
+
+## 📫 Contato Profissional
+
+[![Gmail]
+jb.contato.2020@gmail.com
